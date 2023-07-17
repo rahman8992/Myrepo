@@ -5,6 +5,10 @@
 // //   console.log(a);
 // // }
 
+function joke() {
+  console.log("kkkkkkkkkk");
+}
+
 console.log("howllo rr uuu");
 // // // console.log(a);
 
