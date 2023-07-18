@@ -5,6 +5,9 @@
 // //   console.log(a);
 // // }
 
+function funlmao() {
+  console.log("we are in funlmao content");
+}
 function joke() {
   console.log("kkkkkkkkkk");
 }
