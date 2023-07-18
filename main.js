@@ -5,11 +5,10 @@
 // //   console.log(a);
 // // }
 
-<<<<<<< HEAD
 function bubllesort() {
   console.log("sssssssss");
 }
-=======
+
 function funlmao() {
   console.log("we are in funlmao content");
 }
@@ -17,8 +16,6 @@ function joke() {
   console.log("kkkkkkkkkk");
 }
 
->>>>>>> funlmao
-console.log("howllo rr uuu");
 // // // console.log(a);
 
 // // let jokejs = "one";
